@@ -171,5 +171,5 @@ Total:              $8.98
 ---
 
 ## 📜 License
-MIT License - Free for personal and commercial use. See [LICENSE](LICENSE) for details.
+MIT License - Free for personal and commercial use. See [LICENSE](LICENSE) for details. **Acknowledgment is appreciated!😊✌️.**
 
